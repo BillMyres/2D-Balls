@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M03_Bounce2</string>
+    <string name="fps_input_hint">target fps</string>
+    <string name="fps_button_text">Change</string>
+</resources>
